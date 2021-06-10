@@ -18,7 +18,7 @@
   </teiHeader>
   <text>
       <body>
-         <div type="chapter" n="005"><head>Chapter 5: Diagon Alley</head>
+         <div type="chapter" n="005"><head>Chapter 5: <placeName>Diagon Alley</placeName></head>
 
    <p><persName type="wizard">Harry</persName> woke early the next morning. Although he could tell it was daylight, he kept his eyes shut tight.</p>
 
@@ -83,12 +83,12 @@
    <p>“Don’t worry about that,” said <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName>, standing up and scratching his head. 
       “D’yeh think yer parents didn’t leave yeh anything?”</p>
 
-   <p>“But if their house was destroyed —”</p>
+   <p>“But if their <placeName>house</placeName> was destroyed —”</p>
 
    <p>“They didn’ keep their <objectName>gold</objectName> in the house, boy! Nah, first stop fer us is <placeName type="business">Gringotts</placeName>. Wizards’ bank. Have a <objectName>sausage</objectName>, they’re not
       bad cold — an’ I wouldn’ say no teh a bit o’ yer birthday <objectName>cake</objectName>, neither.”</p>
 
-   <p>“Wizards have banks?”</p>
+   <p>“Wizards have <placeName>banks</placeName>?”</p>
 
    <p>“Just the one. <placeName type="business">Gringotts</placeName>. Run by goblins.”</p>
 
@@ -106,7 +106,7 @@
 
    <p><persName type="wizard">Harry</persName> followed <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName> out onto the rock. 
       The sky was quite clear now and the sea gleamed in the sunlight. The <objectName>boat</objectName> <persName type="muggle">Uncle Vernon</persName> had hired was still there, 
-      with a lot of water in the bottom after the storm.</p>
+      with a lot of <objectName>water</objectName> in the bottom after the storm.</p>
 
    <p>“How did you get here?” <persName type="wizard">Harry</persName> asked, looking around for another <objectName>boat</objectName>.</p>
 
@@ -151,7 +151,7 @@
 
    <p>“Why? Blimey, <persName type="wizard">Harry</persName>, everyone’d be wantin’ magic solutions to their problems. Nah, we’re best left alone.”</p>
 
-   <p>At this moment the <objectName>boat</objectName> bumped gently into the harbor wall. <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName> folded up his newspaper, and they clambered
+   <p>At this moment the <objectName>boat</objectName> bumped gently into the harbor <objectName>wall</objectName>. <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName> folded up his newspaper, and they clambered
       up the stone <objectName>steps</objectName> onto the street.</p>
 
    <p>Passersby stared a lot at <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName> as they walked through the little town to the station. <persName type="wizard">Harry</persName> 
@@ -168,10 +168,10 @@
 
    <p>“Wanted one ever since I was a kid — here we go.”</p>
             
-   <p>They had reached the station. There was a train to <placeName type="city">London</placeName> in five minutes’ time. <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName>, who didn’t understand 
+   <p>They had reached the <placeName>station</placeName>. There was a <objectName>train</objectName> to <placeName type="city">London</placeName> in five minutes’ time. <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName>, who didn’t understand 
       “Muggle <objectName>money</objectName>,” as he called it, gave the <objectName>bills</objectName> to <persName type="wizard">Harry</persName> so he could buy their <objectName>tickets</objectName>.</p>
 
-   <p>People stared more than ever on the train. <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName> took up two seats and sat knitting what looked like a canary-yellow 
+   <p>People stared more than ever on the <objectName>train</objectName>. <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName> took up two seats and sat knitting what looked like a canary-yellow 
       <objectName>circus tent</objectName>.</p>
 
    <p>“Still got yer <objectName>letter</objectName>, <persName type="wizard">Harry</persName>?” he asked as he counted <objectName>stitches</objectName>.</p>
@@ -254,10 +254,10 @@
 
    <p><persName type="wizard">Harry</persName> had never been to <placeName type="city">London</placeName> before. Although <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName> seemed to know 
       where he was going, he was obviously not used to getting there in an ordinary way. He got stuck in the <objectName>ticket barrier</objectName> on the <placeName>Underground</placeName>, 
-      and complained loudly that the <objectName>seats</objectName> were too small and the trains too slow.</p>
+      and complained loudly that the <objectName>seats</objectName> were too small and the <objectName>trains</objectName> too slow.</p>
 
    <p>“I don’t know how the Muggles manage without magic,” he said as they climbed a broken-down <objectName>escalator</objectName> that led up
-      to a bustling road lined with shops.</p>
+      to a bustling <placeName>road</placeName> lined with shops.</p>
 
    <p><persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName> was so huge that he parted the crowd easily; all <persName type="wizard">Harry</persName> had to do was 
       keep close behind him. They passed book shops and music stores, hamburger restaurants and cinemas, but nowhere that looked as if it could sell you
@@ -350,12 +350,12 @@
       firsthand experience. … They say he met vampires in the <placeName>Black Forest</placeName>, and there was a nasty bit o’ trouble with a hag — 
       never been the same since. Scared of the students, scared of his own subject — now, where’s me <objectName>umbrella</objectName>?”</p>
 
-   <p>Vampires? Hags? <persName type="wizard">Harry</persName>’s head was swimming. <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName>, meanwhile, was counting bricks in the wall above 
+   <p>Vampires? Hags? <persName type="wizard">Harry</persName>’s head was swimming. <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName>, meanwhile, was counting bricks in the <objectName>wall</objectName> above 
       the <objectName>trash can</objectName>.</p>
 
    <p>“Three up … two across …” he muttered. “Right, stand back, <persName type="wizard">Harry</persName>.”</p>
 
-   <p>He tapped the wall three times with the point of his <objectName>umbrella</objectName>.</p>
+   <p>He tapped the <objectName>wall</objectName> three times with the point of his <objectName>umbrella</objectName>.</p>
 
    <p>The <objectName>brick</objectName> he had touched quivered — it wriggled — in the middle, a small hole appeared — it grew wider and wider — a second later
       they were facing an <objectName>archway</objectName> large enough even for <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName>, an <objectName>archway</objectName> onto a cobbled street that twisted and 
@@ -364,7 +364,7 @@
    <p>“Welcome,” said <persName type="wizard" subtype="Hogwarts_employee">Hagrid</persName>, “to <placeName>Diagon Alley</placeName>.”</p>
 
    <p>He grinned at <persName type="wizard">Harry</persName>’s amazement. They stepped through the archway. <persName type="wizard">Harry</persName> looked quickly over his shoulder 
-      and saw the <objectName>archway</objectName> shrink instantly back into solid wall.</p>
+      and saw the <objectName>archway</objectName> shrink instantly back into solid <objectName>wall</objectName>.</p>
 
    <p>The sun shone brightly on a stack of <objectName>cauldrons</objectName> outside the nearest shop. <objectName>Cauldrons</objectName> — All Sizes — Copper, Brass, Pewter, Silver — 
       Self-Stirring — Collapsible, said a <objectName>sign</objectName> hanging over them.</p>
